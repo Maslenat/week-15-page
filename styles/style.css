@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    margin-top: 20px;
+}
+
+.form_p {
+    margin: 0px 10px;
+}
+
+select {
+    min-width: 100px;
+
+}
+
+body {
+    background: white;
+}
